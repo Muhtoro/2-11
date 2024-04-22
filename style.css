@@ -60,10 +60,11 @@ input {
     color: white;
 
 }
-.section-2{
-   position: absolute;
-   top: 780px;
-   left: 350px;
+
+.section-2 {
+    position: absolute;
+    top: 780px;
+    left: 350px;
 }
 
 
@@ -71,6 +72,41 @@ input {
     display: flex;
     gap: 24px;
 }
+
+footer {
+    width: 100%;
+    height: 160.2px;
+
+    background-color: black;
+    padding-top: 68px;
+    align-items: center;
+}
+.gr{
+    margin-left: 573px;
+}
+
+.hmill {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: -0.25px;
+    text-align: left;
+
+}
+
+.dir {
+    display: flex;
+    gap: 50px;
+}
+
+.con {
+    margin-left: 345px;
+    display: flex;
+    color: white;
+    gap: 38px;
+}
+
 
 
 .section-3 {
